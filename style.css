@@ -1,0 +1,40 @@
+*{
+				box-sizing:border-box;
+}
+body{
+				background-color:#efecec;
+}
+#header-nav{
+				background-color:#363434;
+				border-radius: 0;
+				border:0;
+}
+.navbar-brand h1{
+				color:#efecec;
+				font-size:1.3em;
+				text-transform:uppercase;
+	   margin-top:0;
+	   margin-bottom:0;
+	   line-height:.75;
+}
+#main-content h2{
+				color:#363434;
+				font-size:1.1em;
+				margin-top:0;
+}
+.tile{
+				position: relative;
+				width: 10px;
+				height: 100px;
+				overflow:hidden;
+				background-color:#efecec;
+				margin:0 auto 15px;
+				border:3px solid #363434;
+				border-radius: 10px;
+}
+p{
+				width:100% ;
+}
+.clitm{
+				color:#efecec;
+}
